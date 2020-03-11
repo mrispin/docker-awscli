@@ -1,4 +1,4 @@
-FROM alpine:3.10.1
+FROM alpine:3.11.3
 MAINTAINER Mark Rispin <mark@risp.in>
 
 RUN apk --no-cache add \
